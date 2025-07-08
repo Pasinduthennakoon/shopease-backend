@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.shop.shopease_backend.ShopeaseBackendApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.147 s -- in com.shop.shopease_backend.ShopeaseBackendApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.287 s -- in com.shop.shopease_backend.ShopeaseBackendApplicationTests

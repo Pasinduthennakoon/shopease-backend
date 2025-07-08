@@ -1,1 +1,5 @@
+com\shop\shopease_backend\Contrallers\TestController.class
+com\shop\shopease_backend\dto\ProductDto.class
+com\shop\shopease_backend\entities\Product.class
 com\shop\shopease_backend\ShopeaseBackendApplication.class
+com\shop\shopease_backend\Contrallers\ProductController.class
